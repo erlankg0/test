@@ -25,9 +25,9 @@
 ```bash
 npm install
 ```
-
+Запуск проекта
 ```bash
-npm install dev
+npm run  dev
 ```
 
 Просмотр проекта http://localhost:5173/
